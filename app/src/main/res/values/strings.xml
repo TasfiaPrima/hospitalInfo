@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">HOSPITAL INFO</string>
+     <string-array name="itemlist">
+         <item>Tairunnessa Memorial Medical College and Hospital</item>
+         <item>Sultan General Hospital</item>
+         <item>Square Hospitals Limited</item>
+         <item>Samorita Hospital</item>
+     </string-array>
+    <string name="tairunnessa"> Tairunnessa Memorial Medical College:\nTairunnessa Memorial Medical College is a private medical school in Bangladesh, established in 1995. It is an institution of the Tairunnessa Memorial Medical Centre. It was founded by Mohammad Shamsul Hoque, named after his mother, the late Tairunnessa, a social reformer. \n\n
+    Address: Konia (Targach), National University, Gazipur ar, gazipur. Or 1704 ঢাকা - ময়মনসিংহ মহাসড়ক Dhaka-Mymensigh Highway, Gazpur 1704   \n\n
+    Hours:Open 24 hours \n
+    Phone: 01914-213134     \n
+    Number of students: 700     \n
+    Principal: Dr Abdul khaleq akond \n
+    Founded: 2002                      \n
+    Academic staff: 143                  \n
+    Academic affiliation: University of Dhaka\n</string>
+
+    <string name="sultanGeneral">Sultan General Hospital\n  \n
+Address: Second Floor, Dhaka - Mymensingh Hwy, 1704  \n\n
+Hours:
+Open 24 hours\n
+Phone: 01731-219390</string>
+
+    <string name="SquareHospitalsLimited">      Square Hospitals Limited:\n
+        Private hospital in Dhaka                                            \n\n
+Address: 18/F, Bir Uttam Qazi Nuruzzaman Sarak, West, Panthapath, Dhaka 1205   \n
+Hours:
+Open 24 hours                                                                    \n
+Phone: 09610-010616</string>
+
+    <string name="SamoritaHospital">Samorita Hospital   \n
+        Private hospital in Dhaka                         \n\n
+Address: 89/1 Panthapath, Dhaka 1215                          \n
+Hours:
+Open 24 hours                                                   \n
+Phone: 02-9131901</string>
+
+
+</resources>
